@@ -1,7 +1,7 @@
 ahttp==1.0.1
 aiodns==2.0.0
 aiofiles==0.4.0
-aiohttp==3.5.4
+aiohttp==3.7.4
 altgraph==0.16.1
 Appium-Python-Client==0.47
 APScheduler==3.2.0
