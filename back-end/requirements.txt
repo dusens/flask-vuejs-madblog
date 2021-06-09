@@ -78,7 +78,7 @@ jupyter==1.0.0
 jupyter-client==5.2.4
 jupyter-console==6.0.0
 jupyter-core==4.4.0
-keystone==0.9.1
+keystone==15.0.1
 kiwisolver==1.1.0
 lml==0.0.9
 logparser==0.8.1
