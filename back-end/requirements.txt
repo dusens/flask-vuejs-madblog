@@ -29,7 +29,7 @@ cssselect==1.0.3
 cycler==0.10.0
 decorator==4.4.0
 defusedxml==0.6.0
-Django==2.2.7
+Django==2.2.24
 django-appconf==1.0.3
 django-ckeditor==5.8.0
 django-cors-headers==3.1.1
